@@ -1,2 +1,2 @@
-# Imers-o-Dev-7-Edi-o
+# Imersão Dev 7° edição
 Imersão da Alura 
